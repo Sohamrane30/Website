@@ -16,6 +16,12 @@
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll; /* disable fixed on mobile */
+  }
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
