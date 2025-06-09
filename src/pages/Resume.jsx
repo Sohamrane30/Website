@@ -14,7 +14,7 @@ function Resume() {
         <p>🛠️ React, Node, JavaScript, Python, C/C++, SQL and HTML/CSS</p>
         <br/>
         <div className='info'>For more information consider downloading my resume.</div>
-        <a className="download-btn" href="/public/React Soham Rane Online.pdf" download>📄 Download PDF</a>
+        <a className="download-btn" href="/React Soham Rane Online.pdf" download>📄 Download PDF</a>
       </div>
       <div className='footer-container'>
         <Footer/>
