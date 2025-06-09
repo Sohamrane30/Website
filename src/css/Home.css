@@ -3,7 +3,11 @@ body{
     font-weight: 400;
     font-style: normal;
     background-image: url('/src/assets/download.jpg');
-    background-size: contain;
+    background-size: cover;
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; /* optional for parallax effect */
     filter: none;
 
 }
