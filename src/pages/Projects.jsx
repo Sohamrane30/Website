@@ -7,7 +7,7 @@ function Projects(){
     {
       title: "Pathfinding Visualiser",
       description: "Web-app allowed the user to visualize pathfinding algorithms such as A* algorithm on a 120x40 grid.",
-      image: "/public/images.jpeg",
+      image: "https://png.pngtree.com/png-vector/20220703/ourmid/pngtree-colorful-maze-background-wallpaper-geometric-shape-vector-png-image_32335452.jpg",
       tech: ["React", "CSS", "JavaScript", "Bootstrap"],
       link: "https://sohamrane30.github.io/Pathfinding-Visualiser/",
     },
