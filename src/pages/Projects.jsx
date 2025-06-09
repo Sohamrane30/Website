@@ -14,14 +14,14 @@ function Projects(){
     {
       title: "Jobsy - AI Platform",
       description: "A full-stack campus recruitment platform integrated with SpaCy NLP for smart job matching.",
-      image: "/public/66a5401731cbd7a5d0c8c14354bdbc8b.jpg",
+      image: "https://cdn.vectorstock.com/i/500p/62/22/machine-learning-and-neural-network-outline-icon-vector-43666222.jpg",
       tech: ["TypeScript", "PostgreSQL", "FastAPI", "Digital Ocean", "Spacey"],
       link: "https://jobsyapp.netlify.app/",
     },
     {
       title: "Selenium Automation Bot",
       description: "An automated hotel search bot made using Python and Selenium to filter and scrape data from Booking.com.",
-      image: "/src/assets/f140481c0e939e17e78deb3074fb76dd.jpg",
+      image: "https://img.freepik.com/premium-vector/robot-symbol-pixel-art_552627-5.jpg",
       tech: ["Python", "Selenium", "HTML"],
       link: "https://github.com/Sohamrane30/Selenium-Booking-Bot",
     },
