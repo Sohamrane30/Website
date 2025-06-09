@@ -22,7 +22,7 @@ function Contact() {
         </div>
 
         <div className="contact-card">
-          <img src="/public/25231.png" alt="GitHub" className="contact-icon" />
+          <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" className="contact-icon" />
           <h2>GitHub</h2>
           <a href="https://github.com/Sohamrane30" target="_blank" rel="noopener noreferrer">
             Sohamrane30

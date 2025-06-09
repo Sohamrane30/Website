@@ -19,7 +19,7 @@ function Projects(){
       link: "https://jobsyapp.netlify.app/",
     },
     {
-      title: "Blog Platform",
+      title: "Selenium Automation Bot",
       description: "An automated hotel search bot made using Python and Selenium to filter and scrape data from Booking.com.",
       image: "/src/assets/f140481c0e939e17e78deb3074fb76dd.jpg",
       tech: ["Python", "Selenium", "HTML"],
