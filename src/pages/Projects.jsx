@@ -21,7 +21,7 @@ function Projects(){
     {
       title: "Blog Platform",
       description: "An automated hotel search bot made using Python and Selenium to filter and scrape data from Booking.com.",
-      image: "/public/f140481c0e939e17e78deb3074fb76dd.jpg",
+      image: "/src/assets/f140481c0e939e17e78deb3074fb76dd.jpg",
       tech: ["Python", "Selenium", "HTML"],
       link: "https://github.com/Sohamrane30/Selenium-Booking-Bot",
     },
