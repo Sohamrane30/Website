@@ -1,0 +1,64 @@
+/* src/css/Contact.css */
+
+.contact-container {
+  padding: 3rem 2rem;
+  text-align: center;
+  color: #ffa500;
+  min-height: 100vh;
+  font-family: "Press Start 2P", system-ui;
+}
+
+.contact-heading {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.contact-cards {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.contact-card {
+  background-color: #645858;
+  border: 2px solid #ffa500;
+    border-radius: 12px;
+  padding: 1rem;
+  width: 220px;
+  text-align: center;
+
+  align-items: center; /* ✅ Centers image horizontally */
+  transition: transform 0.2s ease;
+}
+
+.contact-card:hover {
+  transform: scale(1.05);
+}
+
+.contact-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 1rem;
+}
+
+.contact-card h2 {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.contact-card a {
+  color: #ffa500;
+  text-decoration: none;
+  font-size: 0.8rem;
+  word-break: break-all;
+}
+
+.contact-card a:hover {
+  color: #fff;
+}
+
+
+.thanks{
+    margin-top: 1%;
+    color: rgb(0, 0, 0);
+}
