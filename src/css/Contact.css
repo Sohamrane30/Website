@@ -62,3 +62,16 @@
     margin-top: 1%;
     color: rgb(0, 0, 0);
 }
+
+@media (max-width: 700px) {
+  .contact-cards {
+    flex-direction: column;  /* stack cards vertically */
+    align-items: center;     /* center cards horizontally */
+  }
+
+  .contact-card {
+    width: 90%;             /* make cards wider but fit inside viewport */
+    max-width: 300px;       /* optional max width */
+    margin-bottom: 1.5rem;  /* space between stacked cards */
+  }
+}
